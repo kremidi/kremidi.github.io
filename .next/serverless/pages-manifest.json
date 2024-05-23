@@ -1,0 +1,12 @@
+{
+  "/404": "pages/404.html",
+  "/Courses": "pages/Courses.html",
+  "/": "pages/index.html",
+  "/posts": "pages/posts.html",
+  "/works": "pages/works.html",
+  "/works/Scouting": "pages/works/Scouting.html",
+  "/works/sarribdarija": "pages/works/sarribdarija.html",
+  "/works/self": "pages/works/self.html",
+  "/works/wfs-tool": "pages/works/wfs-tool.html",
+  "/_error": "pages/_error.js"
+}

@@ -1,5 +1,4 @@
-// next.config.js
 module.exports = {
-  target: 'experimental-serverless-trace', // For serverless deployment
-  // Other configuration options...
+  // Enable static site generation
+  target: 'experimental-serverless-trace',
 }
